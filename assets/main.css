@@ -1,0 +1,41 @@
+html {
+    background: url(img_flower.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+body {
+	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPqe2Fyd1GLEguIXMCVexCc6VZ5rX2iTaRkIVqXRZIgvr0FLQis-URDcK0");
+	background-repeat: no-repeat;
+	background-position: right top; 
+}
+header{
+	display:inline; 
+	padding:100px;
+}
+a{
+		padding-right: 100px;
+}
+.nav {display: inline-block;}
+p {
+	background-color: red;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p {
+	{
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
+
+}
+section {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21; 
+}
