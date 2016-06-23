@@ -5,7 +5,7 @@ $(document).foundation()
 function slidingImage() {
     //Saving the element's i
     var orange = document.getElementById("slider");
-    var blue = [];
+    var blue = ["img/slider1.jpg", "img/slider2.jpg", "img/slider3.jpg", "img/slider4.jpg", "img/slider5.jpg", "img/slider6.jpg"];
     //counter i
     var i = 0;
 
@@ -18,4 +18,4 @@ function slidingImage() {
         i = 0;
     }
 }
-setInterval(slidingImage, 3000);
+setInterval(slidingImage(), 3000);
