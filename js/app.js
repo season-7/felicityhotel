@@ -18,3 +18,4 @@ function slidingImage() {
         i = 0;
     }
 }
+setInterval(slidingImage, 3000);
