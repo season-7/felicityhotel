@@ -11,7 +11,7 @@
         color: floralwhite;
     }
     to {
-        color: dimgray;
+        color: black;
     }
 }
 
@@ -39,10 +39,15 @@ nav ul {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 25%;
-    color: floralwhite;
+    opacity: 0.5;
 }
 .landing h1 {
+    color: black;
     font-family: 'Lemonada', cursive;
+    font-size: 80px;
+    animation-name: slides;
+    animation-delay: 3s;
+    opacity: 1;
 }
 
 /*forms*/
