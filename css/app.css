@@ -40,6 +40,9 @@ nav ul {
 
 #slider {
     height: 600px;
+    animation-name: slides;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
 }
 
 /*footer*/
