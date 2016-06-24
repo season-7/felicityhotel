@@ -13,6 +13,12 @@ nav ul {
     text-align: center;
 }
 
+/*forms*/
+
+.forms {
+    padding: 10% 0;
+}
+
 /*gallery images*/
 
 .g_images img {
