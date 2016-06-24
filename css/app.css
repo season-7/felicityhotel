@@ -26,10 +26,12 @@ nav ul {
 
 .landing {
     text-align: center;
+    text-transform: uppercase;
     background-image: url(../img/landing.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding: 25%;
+    color: floralwhite;
 }
 
 /*forms*/
