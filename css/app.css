@@ -29,3 +29,6 @@ footer {
 footer li {
     display: inline-block;
 }
+#social ul {
+    padding: 5% 0;
+}
