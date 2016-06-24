@@ -13,4 +13,4 @@ function slidy() {
         counter = 0;
     }
 }
-setInterval(slidy, 3);
+setInterval(slidy, 3000);
