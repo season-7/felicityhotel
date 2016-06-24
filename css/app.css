@@ -30,6 +30,7 @@ footer {
 footer li {
     display: inline-block;
 }
-#social ul {
-    padding: 5% 0;
+#social ul,
+#contact ul {
+    padding-top: 5%;
 }
