@@ -5,6 +5,13 @@
     width: 80px;
     margin: auto;
 }
+nav {
+    background-color: #d5d9c7;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+}
 
 /*gallery images*/
 
@@ -17,6 +24,7 @@
 /*footer*/
 
 footer {
+    background-color: #d5d9c7;
     text-align: center;
 }
 footer li {
