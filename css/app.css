@@ -6,6 +6,14 @@
         opacity: 1;
     }
 }
+@keyframes fontColor {
+    from {
+        color: floralwhite;
+    }
+    to {
+        color: dimgray;
+    }
+}
 
 /*Navigation*/
 
@@ -33,9 +41,10 @@ nav ul {
     padding: 25%;
     color: floralwhite;
 }
-.landing h1{
+.landing h1 {
     font-family: 'Lemonada', cursive;
 }
+
 /*forms*/
 
 .forms {
