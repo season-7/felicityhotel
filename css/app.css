@@ -14,9 +14,10 @@
         color: black;
     }
 }
-h3{
+h3 {
     font-family: 'Shrikhand', cursive;
 }
+
 /*Navigation*/
 
 #logo {
@@ -51,6 +52,9 @@ nav ul {
     animation-delay: 3s;
     opacity: 1;
 }
+
+/*round*/
+
 
 /*about*/
 
