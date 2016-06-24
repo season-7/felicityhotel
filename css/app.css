@@ -20,7 +20,12 @@ nav ul {
     width: 700px;
     margin: auto;
 }
+
 /*footer*/
-footer li{
+
+footer {
+    text-align: center;
+}
+footer li {
     display: inline-block;
 }
