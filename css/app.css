@@ -27,6 +27,12 @@ nav ul {
     padding: 1%;
 }
 
+/*slider*/
+
+#slider {
+    height: 600px;
+}
+
 /*footer*/
 
 footer {
