@@ -5,20 +5,13 @@
     width: 80px;
     margin: auto;
 }
-nav {
-    background-color: rgba(119, 105, 105, 0.51);
-}
-nav ul {
-    list-style: none;
-    background-color: rgba(119, 105, 105, 0.51);
-}
 
-/*gallery slider*/
+/*gallery images*/
 
-#slider {
-    height: 500px;
-    width: 700px;
-    margin: auto;
+.g_images img {
+    width: 400px;
+    height: 300px;
+    padding: 1%;
 }
 
 /*footer*/
