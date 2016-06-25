@@ -57,8 +57,16 @@ nav ul {
     opacity: 1;
 }
 
-/*round*/
+/*% off*/
 
+.off {
+    text-align: center;
+}
+.off h5 {
+    font-family: 'Lemonada', cursive;
+    padding-top: 4%;
+    font-size: 80px;
+}
 
 /*about*/
 
