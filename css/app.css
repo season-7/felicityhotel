@@ -17,9 +17,11 @@
 h3 {
     font-family: 'Shrikhand', cursive;
 }
-a{
+a {
     font-family: 'Tillana', cursive;
+    color: cornflowerblue;
 }
+
 /*Navigation*/
 
 #logo {
@@ -69,6 +71,12 @@ nav ul {
 
 .forms {
     padding: 10% 0;
+}
+
+/*packages*/
+
+.pkg {
+    padding: 2%;
 }
 
 /*gallery images*/
